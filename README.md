@@ -1,7 +1,5 @@
 -Hi, I’m @menahem-borges-Rodrigues
--I’m interested in data science
--I’m currently learning Big Data Analysis
--I’m looking to collaborate on data analysis and modeling real life problems 
+-I’m an machine learning enthusiast looking to collaborate on data analysis and modeling real life problems  through neural networks.
 -How to reach me - vm.borges.rodrigues@outlook.com
 
 <!---
