@@ -1,5 +1,5 @@
 -Hi, I’m @menahem-borges-Rodrigues
--I’m an machine learning enthusiast looking to collaborate on data analysis and modeling real life problems  through neural networks.
+-I’m a machine learning enthusiast looking to collaborate on data analysis and modeling/solve real life problems  through neural networks.
 -How to reach me - vm.borges.rodrigues@outlook.com
 
 <!---
